@@ -1,0 +1,30 @@
+{
+  "name": "yew-wasm-pack-minimal",
+  "version": "1.0.0",
+  "description": "yew-wasm-pack-minimal demonstrates the minimum code and tooling necessary for a frontend web app with simple deployable artifacts consisting of one HTML file, one JavaScript file, and one WebAssembly file, using Yew, wasm-bindgen, and wasm-pack.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@rollup/plugin-wasm": "^5.1.0",
+    "rollup": "^2.29.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j4ng5y/yew-wasm-pack-minimal.git"
+  },
+  "keywords": [
+    "yew",
+    "wasm",
+    "wasm-bindgen",
+    "web"
+  ],
+  "author": "Jordan Gregory <gregory.jordan.m@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j4ng5y/yew-wasm-pack-minimal/issues"
+  },
+  "homepage": "https://github.com/j4ng5y/yew-wasm-pack-minimal#readme"
+}
