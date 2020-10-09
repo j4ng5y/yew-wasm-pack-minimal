@@ -6,7 +6,7 @@ Note: [`yew-wasm-pack-template`](https://github.com/yewstack/yew-wasm-pack-templ
 
 ## Usage
 
-### 1) Install `Rust` and `wasm-pack`
+### 1) Install `Rust`, `wasm-pack`, and `node.js`
 
 Follow the instructions at https://www.rust-lang.org/tools/install and follow the `installation` link at [`wasm-pack`](https://github.com/rustwasm/wasm-pack).
 
